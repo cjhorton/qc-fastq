@@ -21,6 +21,7 @@ export const App = () => {
 
     return (
         <>
+            <h1>Under Development - Coming Soon!</h1>
             <FileUploader
                 showUpload={true}
                 onAcceptedFiles={handleAcceptedFiles}/>
